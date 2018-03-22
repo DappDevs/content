@@ -17,7 +17,7 @@ Properties of a Cryptographic Hash:
 *Ethereum uses the Keccak-256 Hash function!*
 ]
 
-.right-column.width-33
+.right-column.width-33[
 <br>
 
 ![Collision](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hash_table_4_1_1_0_0_1_0_LL.svg/300px-Hash_table_4_1_1_0_0_1_0_LL.svg.png)
