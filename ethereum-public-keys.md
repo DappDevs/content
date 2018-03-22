@@ -1,5 +1,7 @@
 # Public Key Cryptography
 
+.left-column.width-66[
+
 *A story of two keys*
 
 2 randomized string of bytes
@@ -15,6 +17,13 @@ Not impossible to compute, just *hard*
 * 10^18 years to brute force relationship
 * Quantum computing may do it quicker
 
+]
+
+.right-column.width-33[
+
+![PK Messaging](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Public_key_encryption.svg/525px-Public_key_encryption.svg.png)
+
+]
 ???
 
 Public Key Cryptography is not an algorithm, but a concept
