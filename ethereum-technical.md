@@ -1,3 +1,49 @@
+# Building the Ethereum Blockchain
+
+.left-column.width-33[
+Core Concepts:
+* Cryptograhpic Hash Functions
+* Public Key Cryptography
+* Accounts
+* Transactions
+
+Transactions &rarr; Blocks &rarr; Chains
+
+It's actually kinda boring...
+
+But VERY difficult to get right!
+
+So, don't roll your own!
+]
+
+.right-column.width-66.center[
+![ethereum blockchain](https://www.financemagnates.com/wp-content/uploads/2015/07/Ethereum.png)
+*This is what the Ethereum blockchain actually looks like... Just kidding!*
+]
+
+???
+
+Walk-through technologies that enable blockchains like Ethereum
+
+Basically Accounts:
+* have attributes (like Crypto holdings)
+* and use Public Key Cryptography
+* to submit transactions originating from key holders
+
+Transactions go into blocks
+
+Blocks are chained together
+
+Boom, you have a blockchain!
+
+It's really that simple.
+
+The hard part is doing it securely.
+
+But first, let's learn more about the tech.
+
+---
+
 .left-column.width-66[
 # All About Hash Functions
 
