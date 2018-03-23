@@ -1,8 +1,11 @@
-![get rich](https://i.ytimg.com/vi/jyIV92zwbtU/maxresdefault.jpg)
+background-image: url(http://ak6.picdn.net/shutterstock/videos/28681036/thumb/10.jpg)
+class: middle, center, green, shadow
+
+# **Shill-a-Coin Workshop**
+
+**NO COINS WERE HARMED IN THE MAKING OF THIS WORKSHOP**
 
 ???
-
-Don't show this slide until ready...
 
 Who's ready to Shill some coins???
 
@@ -20,6 +23,8 @@ Who's ready to Shill some coins???
 ???
 
 Walk through MetaMask install
+
+Have them put their MetaMask addresses in the spreadsheet
 
 ---
 
@@ -68,7 +73,7 @@ Walk through remix
 
 Let them play for a bit...
 
-https://docs.google.com/spreadsheets/d/1tHh5T1gBYCDSAl4x99n4I7wVgT06BrlBOJv0xTDo_V0/edit?usp=sharing
+Have them put their token addresses in the spreadsheet
 
 ---
 
@@ -85,6 +90,7 @@ Rules:
 * Yes, this is pure, unadulterated capitalism
 
 Suggestions:
+* Think about incentivization
 * Be transparent (transparency ==> trust ==> users)
 * Be nice! (see above)
 * Market your ICO! (No one said you can't)
@@ -92,6 +98,7 @@ Suggestions:
 
 .right-column.width-33[
 ![Shill Coins](http://www.coincalendar.info/wp-content/uploads/2018/01/Banner.png)
+*I mean, you could be this guy ^ ...*
 ]
 
 ???
@@ -115,7 +122,7 @@ You have 30 mins, then we will deploy as a group... GO!
 ]
 
 .right-column.width-33[
-![Ready to Rumble](https://d3d2maoophos6y.cloudfront.net/wp-content/uploads/sites/7/2015/03/12003631/Jimmy-King-and-Golberg-Courtesy-of-IMDB-and-Warner-Bros-Pictures.jpg)
+![Coder](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 *Time to get down to business!*
 ]
 
@@ -136,8 +143,13 @@ Deploy and Publish Token contract to Rinkeby
     * Otherwise people can't interact with it
 * You are allowed to talk
     * But don't yell... or be mean
+* Your neighbors are tricky!
+    * Watch out for exploits or scams!
 
 You will have 20 mins to get as many Tokens as possible... GO!
+
+\*NOTE: First MetaMask address to get 90% of the tokens wins by default
+
 ]
 
 .right-column.width-33[
