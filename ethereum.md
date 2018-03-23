@@ -1,3 +1,179 @@
+background-image: url(https://www.ethereum.org/images/logos/ETHEREUM-LOGO_PORTRAIT_Black_small.png)
+
+???
+
+So, what's the best stack to program Dapps on?
+
+We think Ethereum is the most exciting ecosystem to develop Dapps with,
+and we'll tell you why!
+
+---
+
+.left-column.width-50[
+
+# Why Ethereum?
+
+1. 10000+ Developers Worldwide
+2. 1000+ Active Projects
+3. Over 1m smart contracts
+4. Over 18 million accounts
+5. 200+ companies in the Ethereum Enterprise Alliance
+6. Exactly 1 Vitalik
+]
+
+.right-column.width-50.center[
+.height-75[
+![Vitalik](https://secure.meetupstatic.com/photos/event/e/1/9/0/highres_438297744.jpeg)
+]
+]
+
+???
+
+Ethereum has the greatest chance for success
+
+Stats:
+* Most Active Developers
+* Most Interesting Projects
+* The most innovative smart contracts
+* One of the highest continuous market caps
+* The most optimism in it's future
+
+Ethereum Foundation:
+* Active in all aspects of dapp framework
+* Extensive research in scalability, privacy, and security
+* Major enterprise partners
+* One of the brightest minds in crypto
+
+Plus, *Ethereum* just sounds cool!
+
+What if we're wrong?
+* Skills and Knowledge transfer to competitors
+* Only differences are underlying tradeoffs and programming language
+* Develop discipline in development transferrable to other fields
+
++++
+
+Our primary reason we believe Ethereum is the best framework to develop with
+is that it has the greatest chance of success in the long term.
+
+It has the most developer talent,
+the most active, interesting projects,
+the widest use of smart contracts,
+one of the highest continuous market caps of any cryptocurrency,
+and by far the most optimism for the future (in my opinion).
+
+Ethereum is very, very active in the development of all aspects
+the dapp framework and ensuring that it is made possible,
+with active research and extensive funding from the Ethereum Foundation,
+major enterprise partners like Consensys, Microsoft, and Intel from the EEA,
+and one of the brightest minds in the space at the helm of it all.
+
+Plus, *Ethereum* just sounds cool!
+
+Even if Ethereum isn't ultimately the blockchain to rule all blockchains,
+the skills and knowledge needed to learn distributed application development
+will be transferable to whatever competitors come into existence.
+The major differences between Ethereum and other smart contract frameworks
+are simply the underlying tradeoffs use to secure the blockchain,
+and what programming language you use to write the smart contracts.
+
+---
+
+# History of Ethereum
+
+.left-column.width-50[
+* "Bitcoin needs a scripting language" - Vitalik Buterin
+* Ethereum Whitepaper (2013)
+* Original team of 4 core developers
+* Public Crowd-sale July-August 2014, raising $20m
+* "Olympic" - 1st Public Beta release, May 2015
+* Devcon 1: London, November 2015
+* "Homestead" - 1st Stable release, March 2016
+
+]
+
+.right-column.width-50[
+![Ethereum Team](https://steemitimages.com/0x0/https://steemitimages.com/DQmanz43Cd5zPqUyxsoz9dkbyV1ULisdsHf63drgty6aVWE/2.PNG)
+]
+
+???
+
+So, what is Ethereum? First a little back story...
+
+Ethereum originated from a young Russian-Canadian programmer named Vitalik Buterin.
+Vitalik's father had introduced Buterin to Bitcoin in 2012 at age 17,
+and he became obsessed with cryptocurrencies.
+In 2013, after working with several other prominent cryptocurrency developers
+and thought-leaders all over the world, he returned home to work on the Ethereum Whitepaper
+after identifying a need to create a cryptocurrency with a general-purpose scripting language
+following his work on MasterCoin.
+
+After publishing the paper, at the age of 19 he dropped out of college
+at the University of Waterloo when he received a $100,000 Thiel Fellowship grant.
+He formed a development group with a team of 3 other developers,
+and by mid-2014 it became clear that the idea should move forward.
+They formed a non-profit entity in Switzerland and raised $20m in Bitcoin
+to fund the development of the Ethereum platform.
+
+By May of the following year, Ethereum had released it's first public beta,
+offering 25k Ether rewards for stress testing the network.
+In March 2016, Ethereum had it's first public release,
+including improvements to transaction processing, gas pricing, and security.
+
+---
+
+.left-column.width-50[
+# History of Ethereum
+* The DAO Hack, June 2016
+* Devcon 2: Shanghai, November 2016
+* Ethereum Classic Hardfork
+* Rise of the ICO, 2017
+* Devcon 3: Cancun, November 2017
+* 2018 - PoS, Sharding, Plasma, etc.
+]
+
+.right-column.width-50[
+![The DAO](https://pbs.twimg.com/media/DOJDEmyXUAEgPNU.jpg)
+]
+
+???
+
+Following the success of the first public release,
+Ethereum formed a Decentralized Autonomous Organization called The DAO,
+which was a set of smart contracts intended to invest into the burgeoning Ethereum ecosystem.
+It raised a record $150m in it's crowd-sale (15% of all Ether),
+and is often referred to as the first ICO.
+
+Following the success of that crowd-sale, hackers hacked the smart contracts used by The DAO
+to steal 3.6m Ether from the newly-founded organization.
+Since the funds were put into a 28-day escrow before they were to be released,
+the Ethereum community came together to discuss what to do about the impending hack.
+
+Ultimately, in a contentious hard-fork off-shooting what is now Ethereum Classic,
+the Ethereum community reversed The DAO Hack and returned all investor funds.
+This is widely credited as the first real test of the Ethereum community,
+a test many consider to have been appropriately handled given the circumstances.
+Since the resolution of The DAO hack, the price of Ethereum has been on the rise,
+fueling the growth of the overall platform in the global cryptocurrency community.
+
+2017 was a wild year for Ethereum.
+The Ethereum Platform was the basis for over 200 ICOs raising more than $3b.
+The Ethereum Enterprise Alliance added 86 technology companies, including many large companies.
+It increased the amount of transactions very close to it's limit,
+with the CryptoKitties project in Dec 2017 ultimately causing a huge network slowdown showing
+the limits of the platform in it's current state.
+
+2018 is going to be an interesting year for Ethereum.
+Casper, the PoS upgrade, has recently gone into Beta Testing, and is anticipated to
+largely eliminate the environmental impact of mining and reduce confirmation times.
+Sharding and the Plasma framework are new methods for Ethereum to increase
+it's transaction capacity and are currently under active research,
+with prototypes slated for later this year.
+
+Now, what exactly *is* Ethereum?
+
+---
+
 # What is Ethereum?
 .left-column.width-25[
 1. It's a blockchain (duh)
@@ -265,3 +441,77 @@ at least more than what anyone is willing to lose.
 
 CryptoEconomics are probably the most exciting outcome of blockchain technology in general.
 For the first time in history, we can write the rules of the digital economy!
+
+---
+
+.left-column.width-50[
+# Ethereum 2.0
+
+* Three big problems:
+    1. Scalability
+    2. Privacy
+    3. Smart Contract Security
+
+Some solutions:
+* Sharding - reduce scalabilty issues
+* Plasma - side-chains backed by main chain
+* Casper (PoS) - improve transaction finality
+* Zcash collaboration - enable private transactions
+* Vyper Smart Contract Language - more secure language
+]
+
+.right-column.width-50[
+![Sharding](https://cdn-images-1.medium.com/max/1600/0*DKWHz0MTjGGP2lpO.)
+]
+
+???
+
+Ethereum issues:
+* Scalability
+    * Sharding
+    * Plasma
+    * Casper (PoS) enables both solutions
+* Privacy
+    * Z-cash collab
+    * Protect vulnerable populations
+    * Tricky balance -- transparency vs. privacy
+* Smart Contract Security
+    * $1b lost (at $1k Ether)
+    * Vyper -- Python, more secure by design
+    * Solidity was great, but has major flaws
+    * Tools needed in the ecosystem to help support
+    * Formal Verification
+
++++
+
+The future of Ethereum is very bright, but there are some problem areas that are in work.
+
+Currently, the Ethereum network has a theoretical limit of 15 transactions/sec,
+which is much less than the 45k txns/sec that payment processors like Visa can manage,
+and far, far less than what would be needed to enable general-purpose dapps.
+Initiates like Sharding and Proof of Stake are intended to reduce the costs,
+both economic and computational, with running the Ethereum network, as well as
+improve the transaction bandwidth to the level required to handle the demand of a
+universe full of dapps.
+Proof of Stake also has the nice side effect of nearly eliminating the environmental impacts
+of safeguarding blockchain networks, the emissions of which, by 2020, will be more than
+an industrialized western nation like Denmark.
+
+In order to protect the privacy and security of the general population,
+there needs to be a reasonable means of making private transactions.
+For vulnerable populations like refugees and citizens of authoritarian regimes
+this is especially important, with key members of the community promoting this
+as one of the primary needs of users of this technology.
+Recently, the Ethereum community was able to integrate the technology behind
+privacy-focused cryptocurrency Z-cash, which is called zk-SNARKS or "zero-knowledge proofs",
+and send a private transaction that is secured by the public Ethereum network.
+Future collaborations of this type are becoming increasingly important to the project.
+
+Lastly, as some of you may know, there are big problems with Solidity,
+the Smart Contract language Ethereum currently uses to create Dapps.
+Almost a billion dollars of funds (at a Ether price of $1000) were lost since the project's inception,
+a frankly unsustainable amount of money for the platform to be successful in the long term.
+While Solidity was successful in getting web developers on board early in the project's life,
+security-orientated languages (like Vyper) will need to be developed that mitigate many of the
+issues that have been discovered with smart contracts, and allow developers to create safe, optimal
+contracts for their Dapps with minimal hassle and special knowledge.
