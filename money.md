@@ -255,3 +255,5 @@ This goes double for Ethereum itself
 If we don't show that the platform solves real problems...
 
 Then your Crypto is worthless
+
+So, use your superpowers and #BUIDL!
